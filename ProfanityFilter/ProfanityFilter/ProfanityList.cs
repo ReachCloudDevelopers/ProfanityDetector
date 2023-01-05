@@ -1081,6 +1081,7 @@ namespace ProfanityDetector
              "negro",
              "neonazi",
              "nig nog",
+             "nigg",
              "nigaboo",
              "nigg3r",
              "nigg4h",
